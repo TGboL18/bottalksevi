@@ -1,5 +1,5 @@
 const BOT_TOKEN = "8646916487:AAFrpg9SE2hggyNahjCpRM3aIQFSjOxw-0g";
-const ADMIN_ID = 5964205399; // replace with your real Telegram numeric user id
+const ADMIN_ID = 8692561961; // replace with your real Telegram numeric user id
 const WEBHOOK_SECRET = ""; // optional
 const API_BASE = `https://api.telegram.org/bot${BOT_TOKEN}`;
 
